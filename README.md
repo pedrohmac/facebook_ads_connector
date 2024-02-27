@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to streamline the process of extracting data from Facebook Ads and seamlessly integrating it into mutating tables in a SQL database. By leveraging Python scripts, the project automates data retrieval, normalization, and insertion into the database, simplifying the workflow for analysts and data engineers.
+This project aims to streamline the process of extracting data from Facebook Ads and seamlessly integrating it into dinamically mutating tables in a SQL database. By leveraging Python scripts, the project automates data retrieval, normalization, and insertion into the database, simplifying the workflow for analysts and data engineers.
 
 ## Features
 
